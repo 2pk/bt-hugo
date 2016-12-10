@@ -23,7 +23,7 @@ canonifyurls = true
 defaultContentLanguage = "en-us"
 
 [permalinks]
-  post = "/:year/:month/:slug/"
+  post = "/:year/:slug/"
 
 [taxonomies]
   tag = "tags"
