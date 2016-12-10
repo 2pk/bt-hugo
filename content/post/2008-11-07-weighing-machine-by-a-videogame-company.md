@@ -1,0 +1,20 @@
+---
+id: 220
+title: Weighing Machine by a Videogame Company
+date: 2008-11-07T21:53:14+00:00
+author: pankaj
+layout: post
+guid: http://pnarula.com/?p=220
+permalink: /2008/weighing-machine-by-a-videogame-company/
+categories:
+  - Digital Life
+---
+<a href="http://pankajnarula.webfactional.com/wp-content/uploads/2008/11/wii-fit.jpg" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pankajnarula.webfactional.com/wp-content/uploads/2008/11/wii-fit.jpg', '']);" ><img class="size-full wp-image-221" title="wii-fit" src="http://pankajnarula.webfactional.com/wp-content/uploads/2008/11/wii-fit.jpg" alt="Wii Fit billboard in NYC" width="500" height="163" /></a>
+
+There has been a <a href="http://pnarula.com/200810/enabling-total-customer-experience/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pnarula.com/200810/enabling-total-customer-experience/', 'visible']);" >visible</a> <a href="http://pnarula.com/200810/another-gem-from-the-house-of-steve/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pnarula.com/200810/another-gem-from-the-house-of-steve/', 'shift']);" >shift</a> towards design on Beta Thoughts in the past few months. If you are one of the 1.5 readers of this blog you might have noticed it. While I have always been interested in the design of things &#8211; but only after the google reader&#8217;s recommendation engine recommended &#8220;<a href="http://www.core77.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.core77.com/', 'core77&#8217;s design blog']);" >core77&#8217;s design blog</a>&#8221; that this interest has gone into over drive. Besides my work as a NetWeaver professional revolves around thinking from user&#8217;s perspective aka user centric design. So what all of this has to do with the title of this post? Read on&#8230;
+
+Core77&#8217;s <a href="http://www.core77.com/blog/object_culture/interview_designing_and_developing_the_wii_balance_board_11670.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.core77.com/blog/object_culture/interview_designing_and_developing_the_wii_balance_board_11670.asp', 'recent post']);"  target="_blank">recent post</a> pointed to a lengthy but immensely enjoyable article about the design and development of Wii Fit which might have over taken <a href="http://gigaom.com/2008/10/21/wii-fit-on-track-to-outsell-gta-iv-this-year/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://gigaom.com/2008/10/21/wii-fit-on-track-to-outsell-gta-iv-this-year/', 'Grand Theft Auto sales']);"  target="_blank">Grand Theft Auto sales</a> by  now. Don&#8217;t miss reading the <a href="http://us.wii.com/wii-fit/iwata_asks/vol2_page1.jsp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://us.wii.com/wii-fit/iwata_asks/vol2_page1.jsp', 'complete article']);"  target="_blank">complete article</a> for some of the craziest places there ideas come from. Over here I would just point out to how important the user centric design is for them
+
+> Miyamoto-san banged the table and said, &#8220;That’s wrong!&#8221; He told this person that from the consumer’s point-of-view, clarity was important. That people don’t say, &#8220;You need to lose 2 BMI points to reach your ideal weight&#8221;, they say, &#8220;You need to lose 3 pounds to reach your ideal weight&#8221;. We wanted people from age 5 to 95 to enjoy using Wii and he pointed out that most of those people wouldn’t know what BMI is. He demanded to know how this person could be so backward-looking when so many employees were working so hard to negotiate with official organizations to allow kilograms to be displayed in the game for the benefit of the consumers.
+
+<small>Image Courtesy &#8211;<a href="http://www.flickr.com/photos/goodrob13/2663564937/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com/photos/goodrob13/2663564937/', ' Goodrob13&#8217;s photostream']);" > Goodrob13&#8217;s photostream</a> at flickr</small>

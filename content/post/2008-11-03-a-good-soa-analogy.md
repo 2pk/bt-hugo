@@ -1,0 +1,18 @@
+---
+id: 216
+title: A Good SOA Analogy
+date: 2008-11-03T10:02:39+00:00
+author: pankaj
+layout: post
+guid: http://pnarula.com/200811/a-good-soa-analogy/
+permalink: /2008/a-good-soa-analogy/
+categories:
+  - Misc
+---
+Thomas Otter was <a href="http://theotherthomasotter.wordpress.com/2008/11/03/soa-laptops-and-coffee/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://theotherthomasotter.wordpress.com/2008/11/03/soa-laptops-and-coffee/', 'mulling over']);" >mulling over</a> how analogies are a great tool in <a href="http://pnarula.com/200811/internalize/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://pnarula.com/200811/internalize/', 'internalizing']);" >internalizing</a> new concepts like SOA. His analogy of pointing the difference between a laptop/notebook and Desktop is a good one and points to the loosely coupled and tightly coupled systems. There is another analogy I really like and I believe is a good one in explaining SOA to someone. It comes from <a href="http://blogs.sun.com/bernard/entry/soa_boa" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://blogs.sun.com/bernard/entry/soa_boa', 'Bernard Wheeler']);" >Bernard Wheeler</a> at Sun. Here it is in its entirety
+
+> The traditional relationship between business and IT is like having a personal chef: you (the business) can dictate what you want to eat, or take menu recommendations, but your chef (the IT department) only buys supplies according to the pre-agreed menu. You play no part in how the food is bought, cooked, etc., but you pay the whole cost for the chef, cooking fuel, food and all the waste from each meal. In addition, if you suddenly change your mind about what you want to eat, there&#8217;s unlikely to be an alternative meal ready in a short time &#8211; apart from re-cooked leftovers.
+> 
+> Using commodity-off-the-shelf (COTS) software is more like eating in a restaurant: there&#8217;s typically less flexibility available to you in the actual make-up of the dishes and the more customization you want, the more it&#8217;ll cost. But you share the costs of the chef, facilities, etc. among other restaurant-goers &#8211; reaping some benefits from the &#8216;economies of scale&#8217; of the restaurant. Furthermore, if you change your mind about what you want just before ordering (e.g. pizza vs. pasta), there&#8217;s probably a reasonable alternative that can be available in an acceptable amount of time. But if you want to include a totally different culture or flavor (e.g. vegetable tempura as a starter), you may have to visit more than one &#8216;restaurant&#8217; and figure out for yourself the logistics of how the &#8216;meal&#8217; as a whole is going to be achieved. Also, there&#8217;s nothing to stop the restaurant from suddenly hiking up their prices, radically changing their menu, or being bought out by a bigger chain who then &#8216;trashes&#8217; your preferred meal.
+> 
+> SOA is like eating at a buffet: the chef (either private or shared) prepares a range of dishes from which **_you_** build **_your own_** meal. The meal you choose does not require the whole ensemble to be put together &#8216;in the kitchen&#8217;: rather, the chef focuses solely on ensuring that there is an appropriate range of dishes provided in the buffet to keep most people happy for most of the time, based on market demand, season (and other prevailing conditions), consumer feedback/requests/suggestions, etc. And if the cost of any item changes dramatically (or there&#8217;s an ingredient shortage, "food scare", or some other reason to change a menu choice), you don&#8217;t have to change your whole meal, just that one piece of it (although granted, it may be the centrepiece of the meal).

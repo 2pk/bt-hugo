@@ -1,0 +1,23 @@
+---
+id: 254
+title: Selecting books to read
+date: 2009-04-20T22:31:29+00:00
+author: pankaj
+layout: post
+guid: http://pnarula.com/?p=254
+permalink: /2009/selecting-books-to-read/
+categories:
+  - Books
+  - Digital Life
+---
+No question about the fact that book reading is great. After completing college education, only way to grow further is by reading books. But reading a book also means time commitment. Typically a week to few weeks of reading every day. So it becomes necessary to select books with care. Though there is always the option of reading few pages or few chapters but that also results in waste.
+
+<p style="text-align: left;">
+  Over the years my book selection process has become somewhat refined. Before the advent of blogs or even web the way to find good books was word of mouth, newspapers or magazines. There were best seller lists and books of the year but that meant that one would miss good but obscure books. Also the books from past would be missed too. <a href="http://www.marginalrevolution.com/marginalrevolution/2009/03/what-ive-been-reading-2.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.marginalrevolution.com/marginalrevolution/2009/03/what-ive-been-reading-2.html', '']);" ><img class="size-full wp-image-255 aligncenter" title="Reading list post at Marginal Revolution" src="http://pankajnarula.webfactional.com/wp-content/uploads/2009/04/marginal-revolution-reading.jpg" alt="Reading list post at Marginal Revolution" width="415" height="239" /></a>For example there is no way I was going to find about Thomas Schelling&#8217;s &#8220;<a href="http://www.amazon.com/Micromotives-Macrobehavior-Lectures-Public-Analysis/dp/0393090094" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/Micromotives-Macrobehavior-Lectures-Public-Analysis/dp/0393090094', 'Micromotives and Macro behavior']);" >Micromotives and Macro behavior</a>&#8221; from best sellers list. With blogs this selection process has become really easy and very effective. Since one only subscribe to authors one likes iis quite likely that the books recommended by them on their blogs would be to your taste. And when one is fond of bibliophiles like Tyler Cowen of Marginal Revolution it is<a href="http://www.marginalrevolution.com/marginalrevolution/books/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.marginalrevolution.com/marginalrevolution/books/', ' bonus time']);" > bonus time</a>.
+</p>
+
+Most of the blog authors when talking about books point to its page on big river aka Amazon. Once at Amazon it is easy to find what other&#8217;s are talking about the books in <a href="http://www.amazon.com/Micromotives-Macrobehavior-Lectures-Public-Analysis/product-reviews/0393090094/ref=dp_top_cm_cr_acr_txt?ie=UTF8&showViewpoints=1" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/Micromotives-Macrobehavior-Lectures-Public-Analysis/product-reviews/0393090094/ref=dp_top_cm_cr_acr_txt?ie=UTF8&showViewpoints=1', 'customer reviews']);" >customer reviews</a>. This is all good but what I am really excited about is the ability to check if the book is available at one of the branches of local <a href="http://www.santaclaracountylib.org/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.santaclaracountylib.org/', ' Santa Clara County libraries ']);" >Santa Clara County libraries </a>(SCCL). This is possible by a little greasemonkey script on firefox that was written for <a href="http://userscripts.org/scripts/show/8432" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://userscripts.org/scripts/show/8432', 'Seattle Public Library']);" >Seattle Public Library</a> which I improvised for <a href="http://userscripts.org/scripts/show/46703" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://userscripts.org/scripts/show/46703', 'SCCL']);" >SCCL</a>. So now I have a blog filtered stream of books whose reviews I can read on Amazon and check their availability in the local libraries. An optimized solution, just what the good engineer ordered.
+
+<p style="text-align: center;">
+  <a href="http://www.amazon.com/dp/159420182X" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.amazon.com/dp/159420182X', '']);" ><img class="size-full wp-image-256 aligncenter" title="amazon-sccl" src="http://pankajnarula.webfactional.com/wp-content/uploads/2009/04/amazon-sccl.jpg" alt="amazon-sccl" width="447" height="277" /></a>
+</p>
