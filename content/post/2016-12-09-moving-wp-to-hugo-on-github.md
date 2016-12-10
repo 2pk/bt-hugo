@@ -15,5 +15,5 @@ Having been on wordpress for more that twelve years it was time for this aging t
 
 ![](/images/moving-wp-2-hugo.jpg  "Moving from WP to Hugo")
 
-So the journey for blogging software has been Jroller -> Blogger -> MovableType -> Wordpress -> Hugo. Hosting a static site in this way has its own challange and should be played by techies only. For regular folks Wordpress is great. I will cover the tech side in another post (if that happened). 
+So the journey for blogging platforms  has been Jroller -> Blogger -> MovableType -> Wordpress -> Hugo. Hosting a static site in this way has its own challange and should be played by techies only. For regular folks Wordpress is great. I will cover the tech side in another post (if that happened). 
 
